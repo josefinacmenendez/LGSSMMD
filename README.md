@@ -1,4 +1,4 @@
-# StateSpaceModels
+# Linear Gaussian State Space Model capable of handling missing data (LGSSMMD)
 
 This repository contains a set of routines for smoothing gaussian observations using state space modeling. 
 
