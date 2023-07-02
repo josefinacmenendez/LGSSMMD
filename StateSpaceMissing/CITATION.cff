@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LGSSMMD
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Josefina
+    family-names: Correa Menendez
+    email: jcorream@mit.edu
+    affiliation: Massachusetts Institute of Technology
+    orcid: 'https://orcid.org/0000-0002-5721-5024'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8106111
+repository-code: 'https://github.com/josefinacmenendez/LGSSMMD'
+license: MIT
+version: '1.0'
+date-released: '2023-07-02'
